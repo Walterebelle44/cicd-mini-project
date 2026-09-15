@@ -1,0 +1,8 @@
+{
+  "name": "mini-projet-cicd-node",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  }
+}
